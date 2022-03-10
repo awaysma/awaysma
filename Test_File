@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("Aways is Brilliant\n");
+  return 0;
+}
